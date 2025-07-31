@@ -15,8 +15,7 @@ This repository contains exploratory data analysis (EDA) of the Telco Customer C
 ## Files
 
 - `Churn.ipynb` – Jupyter notebook with full analysis and plots  
-- `Churn_EDA_Report.pdf` – Summary PDF report  
-- `Churn_EDA_Visual_Report.docx` – Report with visuals
+- `Telco Customer Churn.pdf` – Summary PDF report  
 
 ## Tools
 
